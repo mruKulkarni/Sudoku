@@ -1,0 +1,4 @@
+This project is a basic implementation of the game Sudoku. 
+It generates a puzzle based on user selected levels like Easy, Medium or Hard.
+It lets the user solve the code generated puzzle and also provides the solution to the puzzle.
+It also lets the user type puzzles so that the the system can provide them a solution.
